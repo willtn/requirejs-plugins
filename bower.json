@@ -1,0 +1,6 @@
+{
+  "name": "requirejs-plugins",
+  "version": "0.0.0",
+  "main": "./async.js",
+  "ignore": []
+}
